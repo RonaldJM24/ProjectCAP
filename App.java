@@ -26,19 +26,19 @@ public class App {
                     T.editarTarea();
                     break;
                 case 3:
-                    //eliminarTarea();
+                    T.eliminarTarea();
                     break;
                 case 4:
-                    //listarTareas();
+                    T.listarTareas();
                     break;
                 case 5:
-                    //tareaCompletada();
+                    T.tareaCompletada();
                     break;
                 case 6:
-                    //ordenarTareas();
+                    T.ordenarTareas();
                     break;
                 case 7:
-                    //filtarTareas();
+                    T.filtarTareas();
                     break;
                 case 8:
                     System.out.println("Thanks you, Finalizando Ejecucion....");
